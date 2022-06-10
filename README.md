@@ -14,11 +14,11 @@ Our question of interest is “Will there be a significant difference in time it
 
 
 # Statistical method Used:
-a. Randomized Complete Block Design
-b. ANOVA test
-c. Normal QQ-Plot 
-d. Relative Efficiency
-e. Post-ANOVA: Tukey's HSD method 
+1. Randomized Complete Block Design
+2. ANOVA test
+3. Normal QQ-Plot 
+4. Relative Efficiency
+5. Post-ANOVA: Tukey's HSD method 
 
 # Computation tool Used:
 R
